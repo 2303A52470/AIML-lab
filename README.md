@@ -12,5 +12,5 @@
 </body>
 Week 9 -
 <h3>Week 9 - <p>https://github.com/2303A52470/AIML-lab/blob/main/Week%209.ipynb</p></h3>
-<h3>Week 8 - <p>></h3>
+<h3>Week 8 - <p>>https://github.com/2303A52470/AIML-lab/blob/main/Week%20-%2010%20%5BKMeans%5D.ipynb</h3>
 <h3>Week 8 - <p>p></h3>
